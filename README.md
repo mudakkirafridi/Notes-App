@@ -1,6 +1,8 @@
 # notes_app
 
 A new Flutter project.
+<img width="210" alt="Capture" src="https://github.com/mudakkirafridi/Notes-App/assets/139226585/d85dfbfb-a50b-4e32-b3c1-3052211c3cc9">
+<img width="211" alt="Capture1" src="https://github.com/mudakkirafridi/Notes-App/assets/139226585/fb0db58d-c213-4d3c-8f5c-28b432b90d66">
 
 ## Getting Started
 
